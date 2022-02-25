@@ -11,3 +11,7 @@ func sub(m, n int) int {
 func times(m, n int) int {
 	return n * m
 }
+
+func sumX(m, n int) int {
+	return n + m + n
+}
