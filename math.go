@@ -15,3 +15,7 @@ func times(m, n int) int {
 func sumX(m, n int) int {
 	return n + m + n
 }
+
+func timesX(m, n int) int {
+	return n * m * n
+}
